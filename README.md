@@ -1,4 +1,4 @@
-https://github.com/luevb/Server-Performance-Stats.git
+https://github.com/luevb/Server-Performance-Stats
 Requirements
 You are required to write a script server-stats.sh that can analyse basic server performance stats. You should be able to run the script on any Linux server and it should give you the following stats:
 
